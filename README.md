@@ -1,5 +1,5 @@
 # hello-world
-This this my first githut Repository.
+This this my first github Repository.
 I write simple codes several years, since I like this.
 But now I haven't stored any useful projects, all have been lost, just like the mokey picking corn.
 From now on, I will insist to use github store and share them.

@@ -1,1 +1,3 @@
 I created a new file.
+Add some words.
+Just type in words.
